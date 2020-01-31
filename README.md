@@ -2,6 +2,9 @@
 
 A lightweight implementation for [linked list][wiki] data stucture in Javascript.
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/816px-Singly-linked-list.svg.png "A linkedlist image ")
+
+
 ## Install
 
 You can install it via npm:
