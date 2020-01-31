@@ -276,6 +276,6 @@ node.getAt(1); // returns node with data 11
 [MIT][license] © [Kamal Albatarni][author]
 
 <!-- Definitions -->
-[license]: license
+[license]: LICENSE
 [author]: https://kamal.guru
 [wiki]: https://wikipedia.org/wiki/Linked_list
