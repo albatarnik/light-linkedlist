@@ -1,0 +1,27 @@
+{
+  "name": "light-linkedlist",
+  "version": "1.0.0",
+  "description": "Light implementation for Linked List data structure in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albatarnik/light-linkedlist.git"
+  },
+  "keywords": [
+    "linked",
+    "list",
+    "linkedlist"
+  ],
+  "author": "Kamal Albatarni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albatarnik/light-linkedlist/issues"
+  },
+  "homepage": "https://github.com/albatarnik/light-linkedlist#readme"
+}
