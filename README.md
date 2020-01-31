@@ -7,7 +7,7 @@ A lightweight implementation for [linked list][wiki] data stucture in Javascript
 You can install it via npm:
 
 ```sh
-npm install light-linkedlist --save
+npm install light-linkedlist
 ```
 
 ## Tests
